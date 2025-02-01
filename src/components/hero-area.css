@@ -1,0 +1,10 @@
+.ContentCol {
+    padding-top: 130px;
+    padding-bottom: 90px;
+    color: #fff;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.15);
+@media (max-width: 767px) {
+     padding-top:30px;
+padding-bottom:40px;
+    }
+}
